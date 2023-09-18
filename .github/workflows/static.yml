@@ -42,7 +42,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
 
-        <!DOCTYPE html>
+       
 <head>
     
     <title>
